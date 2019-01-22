@@ -39,7 +39,7 @@
 			Price: 		<input type="text" name="price" value="" /><br /><br />
 	  		Quantity:		<input type="text" name="quantity" value="" /><br /><br />
 	  		SKU  : 			<input type="text" name="sku" value="" /><br /><br />
-	 		Please choose an image: <input name="uploaded" type="file" /><br /><br />
+	 		Please choose an image: <input name="uploaded" id="uploaded" type="file" /><br /><br />
 
       		<input type="submit" name="submit" value="Save" />
    		</FORM>

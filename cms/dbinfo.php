@@ -1,8 +1,8 @@
 <?php
 
 	$db_host = "localhost";
-	$db_user = "homestead";
-	$db_pass = "secret";
+	$db_user = "root";
+	$db_pass = "root";
 	$db_name = "capstone";
 
 ?>
